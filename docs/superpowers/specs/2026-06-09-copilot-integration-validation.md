@@ -19,7 +19,7 @@ Expected result:
 
 Observed result:
 
-- Pending: run after implementation.
+- Passed on 2026-06-09: `PASS: Copilot hook emits additionalContext bootstrap`
 
 ## Clean-session acceptance test
 
