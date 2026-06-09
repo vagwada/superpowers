@@ -108,4 +108,5 @@ Before proposing changes to skill design, workflow philosophy, or architecture, 
 - Read `.github/PULL_REQUEST_TEMPLATE.md` before submitting
 - One problem per PR
 - Test on at least one harness and report results in the environment table
+- Keep plugin manifests in sync across `.claude-plugin/`, `.copilot-plugin/`, `.codex-plugin/`, `.cursor-plugin/`, and `gemini-extension.json`
 - Describe the problem you solved, not just what you changed

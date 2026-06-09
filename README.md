@@ -137,7 +137,11 @@ already use it in another harness.
 
 - Or search for "superpowers" in the plugin marketplace.
 
-### GitHub Copilot CLI
+### GitHub Copilot
+
+Superpowers includes a Copilot plugin manifest for GitHub Copilot coding agent / task agent environments, plus tool mappings in `skills/using-superpowers/references/copilot-tools.md`.
+
+For Copilot CLI marketplace installs:
 
 - Register the marketplace:
 

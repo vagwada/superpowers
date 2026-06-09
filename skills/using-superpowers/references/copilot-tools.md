@@ -1,4 +1,6 @@
-# Copilot CLI Tool Mapping
+# GitHub Copilot Coding Agent Tool Mapping
+
+This mapping is for GitHub Copilot's coding agent / task agent environment. A plain Copilot CLI session may expose a different or smaller tool set; use the equivalents available in that harness.
 
 Skills use Claude Code tool names. When you encounter these in a skill, use your platform equivalent:
 
@@ -18,6 +20,7 @@ Skills use Claude Code tool names. When you encounter these in a skill, use your
 | `TodoWrite` (task tracking) | `sql` with built-in `todos` table |
 | `WebSearch` | No equivalent — use `web_fetch` with a search engine URL |
 | `EnterPlanMode` / `ExitPlanMode` | No equivalent — stay in the main session |
+| Progress reporting / commit + push | `report_progress` / `engine-tools-report_progress` |
 
 ## Async shell sessions
 

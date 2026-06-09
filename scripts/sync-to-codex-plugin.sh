@@ -46,6 +46,7 @@ EXCLUDES=(
   # Dotfiles and infra — top-level only
   "/.claude/"
   "/.claude-plugin/"
+  "/.copilot-plugin/"
   "/.codex/"
   "/.cursor-plugin/"
   "/.git/"
